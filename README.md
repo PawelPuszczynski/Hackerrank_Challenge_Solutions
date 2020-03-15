@@ -15,15 +15,15 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Paweł Puszczyński</o:Author>
   <o:LastAuthor>Paweł Puszczyński</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:TotalTime>192</o:TotalTime>
-  <o:Created>2020-03-13T13:10:00Z</o:Created>
-  <o:LastSaved>2020-03-13T13:10:00Z</o:LastSaved>
+  <o:TotalTime>199</o:TotalTime>
+  <o:Created>2020-03-15T17:37:00Z</o:Created>
+  <o:LastSaved>2020-03-15T17:37:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>1360</o:Words>
-  <o:Characters>8166</o:Characters>
-  <o:Lines>68</o:Lines>
-  <o:Paragraphs>19</o:Paragraphs>
-  <o:CharactersWithSpaces>9507</o:CharactersWithSpaces>
+  <o:Words>1694</o:Words>
+  <o:Characters>10165</o:Characters>
+  <o:Lines>84</o:Lines>
+  <o:Paragraphs>23</o:Paragraphs>
+  <o:CharactersWithSpaces>11836</o:CharactersWithSpaces>
   <o:Version>15.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -661,11 +661,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
  @font-face
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:1;
+	mso-font-charset:238;
 	mso-generic-font-family:roman;
-	mso-font-format:other;
 	mso-font-pitch:variable;
-	mso-font-signature:0 0 0 0 0 0;}
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
 @font-face
 	{font-family:Calibri;
 	panose-1:2 15 5 2 2 2 4 3 2 4;
@@ -835,29 +834,30 @@ punctuation'>
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:20.55pt'>
-  <td width=528 colspan=4 valign=top style='width:395.75pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.55pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=471 colspan=4 valign=top style='width:444.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=SpellE><b><span
-  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Hackerrank</span></b></span><b><span
-  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'> <span
+  style='font-size:16.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Hackerrank</span></b></span><b><span
+  style='font-size:16.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'> <span
   class=SpellE>Challenges</span><o:p></o:p></span></b></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:1;height:32.85pt'>
-  <td width=528 colspan=4 valign=top style='width:395.75pt;border:solid windowtext 1.0pt;
+ <tr style='mso-yfti-irow:1;height:1.0cm'>
+  <td width=471 colspan=4 valign=top style='width:444.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:32.85pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><b><span style='font-size:16.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E'>Java<o:p></o:p></span></b></p>
+  font-family:"Segoe UI",sans-serif;color:#24292E'>Java Language <span
+  class=SpellE>Proficiency</span><o:p></o:p></span></b></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:2'>
+ <tr style='mso-yfti-irow:2;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><b><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Subdomain</span></b></span><b><span
@@ -866,7 +866,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>Challenge<o:p></o:p></span></b></p>
@@ -874,7 +874,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><b><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Points</span></b></span><b><span
@@ -883,16 +883,16 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>Solution<o:p></o:p></span></b></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:3'>
+ <tr style='mso-yfti-irow:3;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Introduction</span></span><span
@@ -901,7 +901,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/welcome-to-java"><span
@@ -914,7 +914,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>3<o:p></o:p></span></p>
@@ -922,7 +922,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:12.0pt;line-height:normal'><span
   class=MsoHyperlink><span style='font-size:12.0pt;font-family:"Calibri",sans-serif;
   mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
@@ -932,10 +932,10 @@ punctuation'>
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:4'>
+ <tr style='mso-yfti-irow:4;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Introduction</span></span><span
@@ -944,7 +944,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#0366D6;mso-ansi-language:EN-GB'><a
@@ -958,7 +958,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>5<o:p></o:p></span></p>
@@ -966,7 +966,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
   "Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
@@ -975,10 +975,10 @@ punctuation'>
   style='mso-bidi-font-family:"Segoe UI";color:black'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:5'>
+ <tr style='mso-yfti-irow:5;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Introduction</span></span><span
@@ -987,7 +987,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/java-if-else"><span
@@ -998,7 +998,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -1006,7 +1006,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
   "Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
@@ -1015,10 +1015,10 @@ punctuation'>
   style='mso-bidi-font-family:"Segoe UI";color:black'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:6'>
+ <tr style='mso-yfti-irow:6;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Introduction</span></span><span
@@ -1027,7 +1027,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#0366D6;mso-ansi-language:EN-GB'><a
@@ -1041,7 +1041,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -1049,7 +1049,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
   "Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
@@ -1058,10 +1058,10 @@ punctuation'>
   style='mso-bidi-font-family:"Segoe UI";color:black'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:7'>
+ <tr style='mso-yfti-irow:7;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Introduction</span></span><span
@@ -1070,7 +1070,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a
@@ -1083,7 +1083,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -1091,7 +1091,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
   "Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
@@ -1100,10 +1100,10 @@ punctuation'>
   style='mso-bidi-font-family:"Segoe UI";color:black'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:8'>
+ <tr style='mso-yfti-irow:8;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Introduction</span></span><span
@@ -1112,7 +1112,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/java-loops-i"><span
@@ -1123,7 +1123,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -1131,7 +1131,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
   "Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
@@ -1140,10 +1140,10 @@ punctuation'>
   style='mso-bidi-font-family:"Segoe UI";color:black'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:9'>
+ <tr style='mso-yfti-irow:9;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Introduction</span></span><span
@@ -1152,7 +1152,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/java-loops"><span
@@ -1163,7 +1163,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -1171,7 +1171,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
   "Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
@@ -1180,10 +1180,10 @@ punctuation'>
   style='mso-bidi-font-family:"Segoe UI";color:black'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:10'>
+ <tr style='mso-yfti-irow:10;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Introduction</span></span><span
@@ -1192,7 +1192,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/java-datatypes"><span
@@ -1203,7 +1203,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -1211,7 +1211,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
   "Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
@@ -1220,10 +1220,10 @@ punctuation'>
   style='mso-bidi-font-family:"Segoe UI";color:black'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:11'>
+ <tr style='mso-yfti-irow:11;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Introduction</span></span><span
@@ -1232,7 +1232,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a
@@ -1244,7 +1244,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -1252,7 +1252,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
   "Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
@@ -1261,10 +1261,10 @@ punctuation'>
   style='mso-bidi-font-family:"Segoe UI";color:black'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:12'>
+ <tr style='mso-yfti-irow:12;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Introduction</span></span><span
@@ -1273,7 +1273,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a
@@ -1286,7 +1286,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -1294,7 +1294,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
   "Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
@@ -1303,10 +1303,10 @@ punctuation'>
   style='mso-bidi-font-family:"Segoe UI";color:black'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:13'>
+ <tr style='mso-yfti-irow:13;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Introduction</span></span><span
@@ -1315,7 +1315,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a
@@ -1327,7 +1327,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -1335,7 +1335,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
   "Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
@@ -1344,10 +1344,10 @@ punctuation'>
   style='mso-bidi-font-family:"Segoe UI";color:black'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:14'>
+ <tr style='mso-yfti-irow:14;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Introduction</span></span><span
@@ -1356,7 +1356,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a
@@ -1368,7 +1368,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>15<o:p></o:p></span></p>
@@ -1376,7 +1376,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
   "Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
@@ -1385,10 +1385,10 @@ punctuation'>
   style='mso-bidi-font-family:"Segoe UI";color:black'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:15'>
+ <tr style='mso-yfti-irow:15;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Introduction</span></span><span
@@ -1397,7 +1397,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a
@@ -1410,7 +1410,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>15<o:p></o:p></span></p>
@@ -1418,7 +1418,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
   "Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
@@ -1427,10 +1427,10 @@ punctuation'>
   style='mso-bidi-font-family:"Segoe UI";color:black'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:16'>
+ <tr style='mso-yfti-irow:16;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Strings</span></span><span
@@ -1439,7 +1439,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a
@@ -1452,7 +1452,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>5<o:p></o:p></span></p>
@@ -1460,18 +1460,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Java%20Strings%20Introduction.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:17'>
+ <tr style='mso-yfti-irow:17;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Strings</span></span><span
@@ -1480,7 +1480,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/java-substring"><span
@@ -1491,7 +1491,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>5<o:p></o:p></span></p>
@@ -1499,18 +1499,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Java%20Substring.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:18'>
+ <tr style='mso-yfti-irow:18;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Strings</span></span><span
@@ -1519,7 +1519,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a
@@ -1531,7 +1531,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -1539,18 +1539,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Java%20Substring%20Comparisons.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:19'>
+ <tr style='mso-yfti-irow:19;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Strings</span></span><span
@@ -1559,7 +1559,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a
@@ -1571,7 +1571,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -1579,18 +1579,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Java%20String%20Reverse.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:20'>
+ <tr style='mso-yfti-irow:20;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Strings</span></span><span
@@ -1599,7 +1599,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/java-anagrams"><span
@@ -1610,7 +1610,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -1618,18 +1618,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Java%20Anagrams.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:21'>
+ <tr style='mso-yfti-irow:21;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Strings</span></span><span
@@ -1638,7 +1638,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a
@@ -1650,7 +1650,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>15<o:p></o:p></span></p>
@@ -1658,18 +1658,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Java%20String%20Tokens.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:22'>
+ <tr style='mso-yfti-irow:22;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Strings</span></span><span
@@ -1678,7 +1678,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a
@@ -1692,7 +1692,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>20<o:p></o:p></span></p>
@@ -1700,18 +1700,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Pattern%20Syntax%20Checker.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:23'>
+ <tr style='mso-yfti-irow:23;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Strings</span></span><span
@@ -1720,7 +1720,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/java-regex"><span
@@ -1731,7 +1731,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>25<o:p></o:p></span></p>
@@ -1739,18 +1739,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Java%20Regex.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:24'>
+ <tr style='mso-yfti-irow:24;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Strings</span></span><span
@@ -1759,7 +1759,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/duplicate-word"><span
@@ -1771,7 +1771,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>25<o:p></o:p></span></p>
@@ -1779,18 +1779,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Java%20Regex%202%20-%20Duplicate%20Words.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:25'>
+ <tr style='mso-yfti-irow:25;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Strings</span></span><span
@@ -1799,20 +1799,21 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal;mso-outline-level:1;background:white;
-  vertical-align:middle'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#0366D6'><a
+  vertical-align:middle'><span class=MsoHyperlink><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif'><a
   href="https://www.hackerrank.com/challenges/valid-username-checker/problem"><span
   class=SpellE><span style='mso-bidi-font-family:"Segoe UI"'>Valid</span></span><span
   style='mso-bidi-font-family:"Segoe UI"'> <span class=SpellE>Username</span> <span
-  class=SpellE>Regular</span> <span class=SpellE>Expression</span></span></a><o:p></o:p></span></p>
+  class=SpellE>Regular</span> <span class=SpellE>Expression</span></span></a></span></span><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#0366D6'><o:p></o:p></span></p>
   </td>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>20<o:p></o:p></span></p>
@@ -1820,18 +1821,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Valid%20Username%20Regular%20Expression.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:26'>
+ <tr style='mso-yfti-irow:26;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>Strings</span></span><span
@@ -1840,7 +1841,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a
@@ -1852,7 +1853,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>20<o:p></o:p></span></p>
@@ -1860,18 +1861,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Tag%20Content%20Extractor.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:27'>
+ <tr style='mso-yfti-irow:27;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>BigNumber</span></span><span
@@ -1880,7 +1881,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/java-biginteger"><span
@@ -1891,7 +1892,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -1899,18 +1900,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Big%20Decimal/Java%20BigInteger.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:28'>
+ <tr style='mso-yfti-irow:28;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>BigNumber</span></span><span
@@ -1919,7 +1920,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/java-bigdecimal"><span
@@ -1930,7 +1931,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>20<o:p></o:p></span></p>
@@ -1938,18 +1939,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Big%20Decimal/Java%20BigDecimal.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:29'>
+ <tr style='mso-yfti-irow:29;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E'>BigNumber</span></span><span
@@ -1958,7 +1959,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a
@@ -1970,7 +1971,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>20<o:p></o:p></span></p>
@@ -1978,18 +1979,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Big%20Decimal/Java%20Primality%20Test.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:30'>
+ <tr style='mso-yfti-irow:30;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>Data <span class=SpellE>Structures</span><o:p></o:p></span></p>
@@ -1997,7 +1998,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a
@@ -2009,7 +2010,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>5<o:p></o:p></span></p>
@@ -2017,18 +2018,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%201D%20Array.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:31'>
+ <tr style='mso-yfti-irow:31;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>Data <span class=SpellE>Structures</span><o:p></o:p></span></p>
@@ -2036,7 +2037,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/java-2d-array"><span
@@ -2047,7 +2048,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -2055,18 +2056,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%202D%20Array.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:32'>
+ <tr style='mso-yfti-irow:32;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>Data <span class=SpellE>Structures</span><o:p></o:p></span></p>
@@ -2074,7 +2075,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a
@@ -2086,7 +2087,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -2094,18 +2095,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%20Subarray.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:33'>
+ <tr style='mso-yfti-irow:33;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>Data <span class=SpellE>Structures</span><o:p></o:p></span></p>
@@ -2113,7 +2114,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/java-arraylist"><span
@@ -2124,7 +2125,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -2132,18 +2133,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%20Arraylist.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:34'>
+ <tr style='mso-yfti-irow:34;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>Data <span class=SpellE>Structures</span><o:p></o:p></span></p>
@@ -2151,7 +2152,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/java-list"><span
@@ -2162,7 +2163,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>15<o:p></o:p></span></p>
@@ -2170,18 +2171,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%20List.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:35'>
+ <tr style='mso-yfti-irow:35;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>Data <span class=SpellE>Structures</span><o:p></o:p></span></p>
@@ -2189,7 +2190,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/phone-book"><span
@@ -2200,7 +2201,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -2208,26 +2209,26 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%20Map.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:36'>
+ <tr style='mso-yfti-irow:36;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'>Data Structures<o:p></o:p></span></p>
+  color:#24292E'>Data <span class=SpellE>Structures</span><o:p></o:p></span></p>
   </td>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/java-hashset"><span
@@ -2238,7 +2239,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -2246,18 +2247,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%20Hashset.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:37'>
+ <tr style='mso-yfti-irow:37;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>Data <span class=SpellE>Structures</span><o:p></o:p></span></p>
@@ -2265,7 +2266,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/java-generics"><span
@@ -2276,7 +2277,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>15<o:p></o:p></span></p>
@@ -2284,18 +2285,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%20Generics.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:38'>
+ <tr style='mso-yfti-irow:38;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>Data <span class=SpellE>Structures</span><o:p></o:p></span></p>
@@ -2303,7 +2304,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/java-comparator"><span
@@ -2314,7 +2315,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -2322,18 +2323,18 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%20Comparator.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:39'>
+ <tr style='mso-yfti-irow:39;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>Data <span class=SpellE>Structures</span><o:p></o:p></span></p>
@@ -2341,7 +2342,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><u><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#0366D6'><a href="https://www.hackerrank.com/challenges/java-sort"><span
@@ -2351,7 +2352,7 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E'>10<o:p></o:p></span></p>
@@ -2359,83 +2360,885 @@ punctuation'>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><a
+  normal'><span class=MsoHyperlink><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%20Sort.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:40'>
-  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+ <tr style='mso-yfti-irow:40;height:1.0cm'>
+  <td colspan=4 valign=top style='border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
-  line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
-  line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
-  line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
-  line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  line-height:normal'><span class=SpellE><b><span style='font-size:16.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>Hackerrank</span></b></span><b><span
+  style='font-size:16.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'> <span
+  class=SpellE>Challenges</span><o:p></o:p></span></b></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:41;mso-yfti-lastrow:yes'>
+ <tr style='mso-yfti-irow:41;height:1.0cm'>
+  <td colspan=4 valign=top style='border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span class=SpellE><b><span style='font-size:16.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>Algorithms</span></b></span><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
-  line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  line-height:normal'><span class=SpellE><b><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>Subdomain</span></b></span><b><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'><o:p></o:p></span></b></p>
   </td>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
-  line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  line-height:normal'><b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E'>Challenge<o:p></o:p></span></b></p>
   </td>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
-  line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  line-height:normal'><span class=SpellE><b><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>Points</span></b></span><b><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'><o:p></o:p></span></b></p>
   </td>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
-  line-height:normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  line-height:normal'><b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E'>Solution<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43;height:1.0cm'>
+  <td style='border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Warmup</span></span><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/solve-me-first"><span
+  class=SpellE><span style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Solve</span></span><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'> Me First</span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>1<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Warmup</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/staircase"><span class=SpellE><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Staircase</span></span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Warmup</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/plus-minus"><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Plus Minus</span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Warmup</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/diagonal-difference"><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Diagonal <span
+  class=SpellE>Difference</span></span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Warmup</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/a-very-big-sum"><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>A <span class=SpellE>Very</span>
+  Big Sum</span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Warmup</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/simple-array-sum"><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Simple <span
+  class=SpellE>Array</span> Sum</span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Warmup</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/compare-the-triplets"><span
+  class=SpellE><span style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Compare</span></span><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'> the <span
+  class=SpellE>Triplets</span></span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Warmup</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/drawing-book"><span class=SpellE><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Drawing</span></span><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'> <span class=SpellE>Book</span></span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Warmup</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/birthday-cake-candles"><span
+  class=SpellE><span style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Birthday</span></span><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'> <span class=SpellE>Cake</span>
+  <span class=SpellE>Candles</span></span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Warmup</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/sock-merchant"><span
+  class=SpellE><span style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Sock</span></span><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'> Merchant</span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Warmup</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/mini-max-sum"><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Mini-max Sum</span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Warmup</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/time-conversion"><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Time Conversion</span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>15<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Implementation</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/divisible-sum-pairs"><span
+  class=SpellE><span style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Divisible</span></span><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'> Sum <span
+  class=SpellE>Pairs</span></span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Implementation</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/kangaroo"><span class=SpellE><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Kangaroo</span></span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Implementation</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/bon-appetit"><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Bon <span class=SpellE>Appetit</span></span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Implementation</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/apple-and-orange"><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Apple and Orange</span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Implementation</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/between-two-sets"><span
+  class=SpellE><span style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Between</span></span><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'> <span class=SpellE>Two</span>
+  <span class=SpellE>Sets</span></span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Implementation</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/grading"><span class=SpellE><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Grading</span></span><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'> <span class=SpellE>Students</span></span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:61;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Implementation</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/breaking-best-and-worst-records"><span
+  class=SpellE><span style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Breaking</span></span><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'> the <span
+  class=SpellE>Records</span></span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:62;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Implementation</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/migratory-birds"><span
+  class=SpellE><span style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Migratory</span></span><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'> <span class=SpellE>Birds</span></span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:63;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Implementation</span></span><span
+  style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/the-birthday-bar"><span
+  class=SpellE><span style='mso-bidi-font-family:"Segoe UI";color:#0366D6'>Birthday</span></span><span
+  style='mso-bidi-font-family:"Segoe UI";color:#0366D6'> <span class=SpellE>Chocolate</span></span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64;mso-yfti-lastrow:yes;height:1.0cm'>
+  <td style='border:solid windowtext 1.0pt;border-top:none;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Implementation</span></span><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://www.hackerrank.com/challenges/day-of-the-programmer/problem"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Day of the Programmer</span></a><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>15<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
 </table>
 
-<p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal><span lang=EN-GB style='font-size:12.0pt;line-height:107%;
+mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
 
 </div>
 
