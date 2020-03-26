@@ -16,14 +16,14 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:LastAuthor>pawel.puszczynski</o:LastAuthor>
   <o:Revision>2</o:Revision>
   <o:TotalTime>1114</o:TotalTime>
-  <o:Created>2020-03-25T20:25:00Z</o:Created>
-  <o:LastSaved>2020-03-25T20:25:00Z</o:LastSaved>
+  <o:Created>2020-03-26T20:47:00Z</o:Created>
+  <o:LastSaved>2020-03-26T20:47:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>3307</o:Words>
-  <o:Characters>19847</o:Characters>
-  <o:Lines>165</o:Lines>
+  <o:Words>3347</o:Words>
+  <o:Characters>20088</o:Characters>
+  <o:Lines>167</o:Lines>
   <o:Paragraphs>46</o:Paragraphs>
-  <o:CharactersWithSpaces>23108</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>23389</o:CharactersWithSpaces>
   <o:Version>15.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -661,10 +661,11 @@ xmlns="http://www.w3.org/TR/REC-html40">
  @font-face
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:238;
+	mso-font-charset:1;
 	mso-generic-font-family:roman;
+	mso-font-format:other;
 	mso-font-pitch:variable;
-	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+	mso-font-signature:0 0 0 0 0 0;}
 @font-face
 	{font-family:Calibri;
 	panose-1:2 15 5 2 2 2 4 3 2 4;
@@ -4339,7 +4340,7 @@ punctuation'>
   style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:92;mso-yfti-lastrow:yes;height:1.0cm'>
+ <tr style='mso-yfti-irow:92;height:1.0cm'>
   <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4375,6 +4376,45 @@ punctuation'>
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Algorithms%20Problem_Solving/Implementation/BeautifulDaysAtTheMovies.java"><span
   style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:93;mso-yfti-lastrow:yes;height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'>Implementation</span></span><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#24292E'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
+  href="https://www.hackerrank.com/challenges/strange-advertising/problem"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Virtual Advertising</span></a><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>15<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Algorithms%20Problem_Solving/Implementation/VirtualAdvertising.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></span></p>
   </td>
  </tr>
 </table>
