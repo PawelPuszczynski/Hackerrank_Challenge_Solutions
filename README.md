@@ -65,7 +65,7 @@ div.WordSection1
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none'>
  <tr style='height:1.0cm'>
-  <td width=707 colspan=4 valign=top style='width:454.75pt;border:solid windowtext 1.0pt;
+  <td width=707 colspan=4 valign=top style='width:532.95pt;border:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><b><span style='font-size:12.0pt;
@@ -73,7 +73,7 @@ div.WordSection1
   </td>
  </tr>
  <tr style='height:1.0cm'>
-  <td width=707 colspan=4 valign=top style='width:454.75pt;border:solid windowtext 1.0pt;
+  <td width=707 colspan=4 valign=top style='width:532.95pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><b><span style='font-size:16.0pt;
@@ -1595,8 +1595,8 @@ div.WordSection1
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=MsoHyperlink><span style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif'><a
-  href="https://www.hackerrank.com/challenges/java-factory/problem">Java Factory
-  Pattern</a></span></span></p>
+  href="https://www.hackerrank.com/challenges/java-factory/problem">Java
+  Factory Pattern</a></span></span></p>
   </td>
   <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2621,8 +2621,8 @@ div.WordSection1
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://www.hackerrank.com/challenges/the-hurdle-race/problem">The
-  Hurdle Race</a></span></span></p>
+  href="https://www.hackerrank.com/challenges/the-hurdle-race/problem">The Hurdle
+  Race</a></span></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3024,6 +3024,180 @@ div.WordSection1
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   lang=EN-US style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Data_Structures/DeleteNodeLinkedList.java">Solution</a></span></span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-US style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>Linked Lists</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem">Print
+  in Reverse</a></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>5</span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Data_Structures/PrintInReverse.java">Solution</a></span></span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-US style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>Linked Lists</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem">Get
+  Node Value</a></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>5</span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Data_Structures/GetNodeValue.java">Solution</a></span></span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-US style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>Linked Lists</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem">Delete
+  Duplicate-Value Nodes</a></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>5</span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Data_Structures/DeleteDuplicateNodes.java">Solution</a></span></span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-US style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>Linked Lists</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem">Find
+  Merge Point of Two Lists</a></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>5</span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Data_Structures/FindMergePoint2LinkedLists.java">Solution</a></span></span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-US style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>Linked Lists</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem">Inserting
+  a Node Into a Sorted Doubly Linked List</a></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>5</span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Data_Structures/InsertNodeSortedDoublyLList.java">Solution</a></span></span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-US style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>Linked Lists</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem">Reverse
+  a doubly linked list</a></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>5</span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Data_Structures/ReverseDoublyLinkedList.java">Solution</a></span></span></p>
   </td>
  </tr>
 </table>
