@@ -3200,6 +3200,151 @@ div.WordSection1
   href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Data_Structures/ReverseDoublyLinkedList.java">Solution</a></span></span></p>
   </td>
  </tr>
+ <tr style='height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-US style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>Trees</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://www.hackerrank.com/challenges/tree-preorder-traversal/problem">Tree
+  PreOrder Traversal</a></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10</span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Data_Structures/TreePreOrderTraversal.java">Solution</a></span></span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-US style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>Trees</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://www.hackerrank.com/challenges/tree-postorder-traversal/problem">Tree
+  PostOrder Traversal</a></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10</span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Data_Structures/TreePostOrderTraversal.java">Solution</a></span></span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-US style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>Trees</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://www.hackerrank.com/challenges/tree-inorder-traversal/problem">Tree
+  InOrder Traversal</a></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>10</span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Data_Structures/TreeInOrderTraversal.java">Solution</a></span></span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-US style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>Trees</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem">Binary
+  Search Tree: Insertion</a></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>20</span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Data_Structures/BinarySearchTreeInsertion.java">Solution</a></span></span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-US style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>Trees</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem">Binary
+  Search Tree Lowest Common Ancestor</a></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E'>30</span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Data_Structures/BinarySearchTreeLowestCommonAncestor.java">Solution</a></span></span></p>
+  </td>
+ </tr>
 </table>
 
 <p class=MsoNormal><span lang=EN-GB style='font-size:12.0pt;line-height:107%'>&nbsp;</span></p>
