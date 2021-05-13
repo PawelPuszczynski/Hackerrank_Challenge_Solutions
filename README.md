@@ -79,7 +79,7 @@
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span class=MsoHyperlink><span style='font-size:12.0pt;
   font-family:"Calibri",sans-serif;color:black'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Introduction/WelcomeToJava.java"><span
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Introduction/WelcomeToJava.java"><span
   style='color:black'>Solution</span></a></span></span></p>
   </td>
  </tr>
