@@ -579,7 +579,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Java%20Anagrams.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Strings/Java%20Anagrams.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -608,7 +608,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Java%20String%20Tokens.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Strings/Java%20String%20Tokens.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -637,7 +637,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Pattern%20Syntax%20Checker.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Strings/Pattern%20Syntax%20Checker.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -665,7 +665,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Java%20Regex.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Strings/Java%20Regex.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -693,7 +693,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Java%20Regex%202%20-%20Duplicate%20Words.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Strings/Java%20Regex%202%20-%20Duplicate%20Words.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -722,7 +722,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Valid%20Username%20Regular%20Expression.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Strings/Valid%20Username%20Regular%20Expression.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -751,7 +751,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Strings/Tag%20Content%20Extractor.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Strings/Tag%20Content%20Extractor.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -779,7 +779,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Big%20Decimal/Java%20BigInteger.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Big%20Decimal/Java%20BigInteger.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -807,7 +807,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Big%20Decimal/Java%20BigDecimal.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Big%20Decimal/Java%20BigDecimal.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -836,7 +836,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Big%20Decimal/Java%20Primality%20Test.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Big%20Decimal/Java%20Primality%20Test.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -865,7 +865,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%201D%20Array.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Data%20Structures/Java%201D%20Array.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -893,7 +893,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%202D%20Array.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Data%20Structures/Java%202D%20Array.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -922,7 +922,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%20Subarray.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Data%20Structures/Java%20Subarray.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -950,7 +950,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%20Arraylist.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Data%20Structures/Java%20Arraylist.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -978,7 +978,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%20List.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Data%20Structures/Java%20List.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -1006,7 +1006,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%20Map.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Data%20Structures/Java%20Map.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -1034,7 +1034,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%20Hashset.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Data%20Structures/Java%20Hashset.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -1062,7 +1062,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%20Generics.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Data%20Structures/Java%20Generics.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -1090,7 +1090,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%20Comparator.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Data%20Structures/Java%20Comparator.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
