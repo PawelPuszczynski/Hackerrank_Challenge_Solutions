@@ -1118,7 +1118,7 @@
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><a
-  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java/Data%20Structures/Java%20Sort.java">Solution</a></span></span></p>
+  href="https://github.com/PawelPuszczynski/Hackerrank_Challenge_Solutions/blob/master/Java_Language_Proficiency/Data%20Structures/Java%20Sort.java">Solution</a></span></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
